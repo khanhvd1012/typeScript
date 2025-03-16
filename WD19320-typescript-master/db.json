@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "description": "Apple Trade In.Nhận 1.000.000đ–22.200.000đ điểm tín dụng để sử dụng khi mua iPhone mới.",
+      "productCode": "Samsung-1",
+      "price": 1000,
+      "image": "https://flowbite.com/docs/images/blog/image-1.jpg"
+    },
+    {
+      "name": "Sam sung1",
+      "description": "Sam sung",
+      "productCode": "Sam sung",
+      "price": 1111,
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+      "id": 2
+    },
+    {
+      "name": "nokia",
+      "description": "nokia",
+      "productCode": "nokia",
+      "price": 100,
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "khanhvdph49723@gmail.com",
+      "password": "$2a$10$ipcKwOe0T5q1/1GSM2ZpcuO0QuhSd2ThGxSWhf0eW4M7sx65WdoxO",
+      "name": "VŨ ĐÌNH KHÁNH",
+      "id": 1
+    },
+    {
+      "email": "khanh@gmail.com",
+      "password": "$2a$10$yxqNnxs95ywAm1hqK/dKQedN6lFSrBeW8nNRLSSuS.Jm8sQs/S7xa",
+      "name": "VŨ ĐÌNH KHÁNH",
+      "id": 2
+    },
+    {
+      "email": "khanhvd@gmail.com",
+      "password": "$2a$10$jmqWkXUlk1fhWIvFH/uPtOgCfwxAjN.njAaJKP5wxK.EnI.mlQ7Sq",
+      "name": "khanh",
+      "id": 3
+    },
+    {
+      "email": "khanhcc@gmail.com",
+      "password": "$2a$10$spa52.jmQlrNlqNPtgnqw.8VCN.qoBJWVhIwNgowhmqxw9q32gPXO",
+      "name": "VŨ ĐÌNH KHÁNH",
+      "id": 4
+    }
+  ]
+}
